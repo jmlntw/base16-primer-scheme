@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 128">
+  <path fill="#1c2128" d="M0 0h80v128H0z"/>
+  <path fill="#373e47" d="M80 0h80v128H80z"/>
+  <path fill="#444c56" d="M160 0h80v128h-80z"/>
+  <path fill="#545d68" d="M240 0h80v128h-80z"/>
+  <path fill="#768390" d="M320 0h80v128h-80z"/>
+  <path fill="#909dab" d="M400 0h80v128h-80z"/>
+  <path fill="#adbac7" d="M480 0h80v128h-80z"/>
+  <path fill="#cdd9e5" d="M560 0h80v128h-80z"/>
+  <path fill="#f47067" d="M640 0h80v128h-80z"/>
+  <path fill="#e0823d" d="M720 0h80v128h-80z"/>
+  <path fill="#c69026" d="M800 0h80v128h-80z"/>
+  <path fill="#57ab5a" d="M880 0h80v128h-80z"/>
+  <path fill="#96d0ff" d="M960 0h80v128h-80z"/>
+  <path fill="#539bf5" d="M1040 0h80v128h-80z"/>
+  <path fill="#e275ad" d="M1120 0h80v128h-80z"/>
+  <path fill="#ae5622" d="M1200 0h80v128h-80z"/>
+</svg>
