@@ -22,7 +22,7 @@ See [chriskempson/base16](https://github.com/chriskempson/base16) for more infor
 
 ## License
 
-Licensed under the [MIT Licnese](LICENSE.md).
+Licensed under the [MIT License](LICENSE.md).
 
 ### Disclaimer
 
