@@ -4,11 +4,12 @@
 
 ## Preview
 
-| Scheme                                        | Colors                                        |
-| --------------------------------------------- | --------------------------------------------- |
-| [Primer Light](primer-light.yaml)             | ![Primer Light](primer-light.svg)             |
-| [Primer Dark](primer-dark.yaml)               | ![Primer Dark](primer-dark.svg)               |
-| [Primer Dark Dimmed](primer-dark-dimmed.yaml) | ![Primer Dark Dimmed](primer-dark-dimmed.svg) |
+| Scheme                                                  | Colors                                                  |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| [Primer Light](primer-light.yaml)                       | ![Primer Light](primer-light.svg)                       |
+| [Primer Dark](primer-dark.yaml)                         | ![Primer Dark](primer-dark.svg)                         |
+| [Primer Dark Dimmed](primer-dark-dimmed.yaml)           | ![Primer Dark Dimmed](primer-dark-dimmed.svg)           |
+| [Primer Light Colorblind](primer-light-colorblind.yaml) | ![Primer Light Colorblind](primer-light-colorblind.svg) |
 
 ## Usage
 
