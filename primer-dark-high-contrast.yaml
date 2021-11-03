@@ -1,0 +1,18 @@
+scheme: "Primer Dark High Contrast"
+author: "Jimmy Lin"
+base00: "010409" # black
+base01: "272b33" # gray-7
+base02: "525964" # gray-6
+base03: "7a828e" # gray-5
+base04: "bdc4cc" # gray-3
+base05: "d9dee3" # gray-2
+base06: "f0f3f6" # gray-1
+base07: "ffffff" # white
+base08: "ff9492" # red-3
+base09: "fe9a2d" # orange-3
+base0A: "f0b72f" # yellow-3
+base0B: "26cd4d" # green-3
+base0C: "addcff" # blue-1
+base0D: "71b7ff" # blue-3
+base0E: "ff8dc7" # pink-3
+base0F: "e7811d" # orange-5
