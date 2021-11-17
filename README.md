@@ -2,6 +2,8 @@
 
 **base16-primer-scheme** is a [Base16](https://github.com/chriskempson/base16) color scheme based on [Primer Design System](https://primer.style/).
 
+This repository is not associated with the official [Primer](https://github.com/primer) repository.
+
 ## Preview
 
 | Scheme                                                      | Colors                                                      |
@@ -20,5 +22,3 @@ See [chriskempson/base16](https://github.com/chriskempson/base16) for more infor
 ## License
 
 Licensed under the [MIT License](LICENSE.md).
-
-**Disclaimer:** This repository has no affiliation with the official [Primer](https://github.com/primer) repository.
